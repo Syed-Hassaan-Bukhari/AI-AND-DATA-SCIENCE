@@ -1,4 +1,4 @@
-Markdown# 🤖 AI & Data Science Repository
+🤖 AI & Data Science Repository
 
 Welcome to my central hub for **Artificial Intelligence and Data Science** projects! This repository serves as a comprehensive portfolio showcasing end-to-end data pipelines, predictive modeling, machine learning workflows, and deep learning implementations. 
 
