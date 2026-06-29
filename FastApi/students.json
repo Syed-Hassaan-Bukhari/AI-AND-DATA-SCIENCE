@@ -1,0 +1,13 @@
+{ 
+    "1234":  {"Name":"Asad", "course":"DSAI", "campus":"ZAIT","Python":90,"Pandas":87,"Numpy":97},
+    "1235":  {"Name":"Noman", "course":"DSAI", "campus":"TITAN","Python":95,"Pandas":78,"Numpy":67},
+    "1236":  {"Name":"Talha", "course":"DSAI", "campus":"TITAN","Python":60,"Pandas":47,"Numpy":89},
+    "1237":  {"Name":"Dawood", "course":"DSAI", "campus":"ZAIT","Python":75,"Pandas":97,"Numpy":100},
+    "1238":  {"Name":"Nasir", "course":"DSAI", "campus":"ZAIT","Python":90,"Pandas":87,"Numpy":97},
+    "1239":  {"Name":"Saad", "course":"DSAI", "campus":"ZAIT","Python":90,"Pandas":87,"Numpy":97},
+    "1240":  {"Name":"Rehan", "course":"DSAI", "campus":"ZAIT","Python":90,"Pandas":87,"Numpy":97},
+    "1241":  {"Name":"Umer", "course":"DSAI", "campus":"ZAIT","Python":90,"Pandas":87,"Numpy":97},
+    "1242":  {"Name":"Ali", "course":"DSAI", "campus":"ZAIT","Python":90,"Pandas":87,"Numpy":97}
+
+ }
+ 
